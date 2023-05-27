@@ -1,0 +1,4 @@
+ma\app\productsapp\repositories\ProductRepository.class
+ma\app\productsapp\web\ProductController.class
+ma\app\productsapp\ProductsAppApplication.class
+ma\app\productsapp\entities\Product.class
